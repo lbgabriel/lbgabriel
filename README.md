@@ -1,4 +1,4 @@
-•	👋 Hi, I’m @lbgabriel!
+•	👋 Hi, I’m @lbgabriel!  I am a catalyst for dialogue and a cultivator of relationships, skilled in navigating and resolving challenges.
 •	👀 I’m interested in technology and coding.
 •	🌱 I’m currently learning and improving my coding skills, focusing on Python, Sql.
 •	💞️ I’m looking to collaborate on open-source projects or interesting coding challenges.
